@@ -9,6 +9,6 @@ package proyectofinal;
  *
  * @author Usuario
  */
-public class StringBiulder {
+public class StringBuilder {
     
 }
