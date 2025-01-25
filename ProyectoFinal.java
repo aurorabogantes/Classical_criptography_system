@@ -1,11 +1,5 @@
 package proyectofinal;j
 
-/**
-*Bogantes Céspedes María Aurora
-*Chaves González Fiorella
-* González Carrillo Omar Steve
-* Valderrama Blanco Juan David
- */
 public class ProyectoFinal {
 private static final String abc = "ABCDEFGHIJKLMNÑOPQRSTUVWXYZ0123456789 ";
 private static final int mod = 38;
